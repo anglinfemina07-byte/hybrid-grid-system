@@ -1,6 +1,4 @@
 streamlit
 plotly
 pandas
-numpygit add .
-git commit -m "added requirements"
-git push
+numpy
